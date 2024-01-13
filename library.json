@@ -1,0 +1,21 @@
+{
+    "name": "ahoyDTULib",
+    "version": "0.1.0",
+    "description": "Library to communicate with AHOY DTU",
+    "keywords": "Solar, AHOY, Inverter, Hoymiles",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/ArduinoHannover/DBAPI.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Moritz Jahns",
+        "url": "https://github.com/Bassetware"
+      }
+    ],
+    "license": "GPL-3.0-only",
+    "frameworks": "Arduino",
+    "platforms": ["espressif32"]
+  }
